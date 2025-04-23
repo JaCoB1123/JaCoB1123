@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacob1123" alt="jacob1123" /> </p>
 
-- 🔭 I’m currently working at [UB-Software](https://majesty.de/)
+- 🔭 I’m currently working at [majesty GmbH](https://majesty.de/)
 
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on [restic](https://github.com/restic/restic/)
 
